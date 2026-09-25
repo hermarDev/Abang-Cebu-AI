@@ -1,0 +1,3 @@
+-- Seed data for Abang Cebu AI development
+-- Insert mock profiles (assuming test auth IDs exist)
+-- This script provides demo properties around Cebu IT Park, Lahug, and Mandaue.
